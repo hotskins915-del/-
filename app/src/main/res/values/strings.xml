@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="new_note">Новая</string>
+    <string name="hint_title">Заголовок</string>
+    <string name="hint_content">Начни писать…</string>
+    <string name="empty_notes_hint">Нет заметок. Нажмите + чтобы добавить.</string>
+    <string name="search_hint">Поиск заметок</string>
+    <string name="action_export">Экспорт</string>
+    <string name="action_import">Импорт</string>
+    <string name="action_save">Сохранить</string>
+    <string name="cd_pin">Закрепить</string>
+</resources>

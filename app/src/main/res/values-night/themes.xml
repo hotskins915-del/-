@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NotesApp" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#F0C040</item>
+        <item name="colorOnPrimary">#111111</item>
+        <item name="colorSurface">#1A1A1A</item>
+        <item name="colorOnSurface">#EEEEEE</item>
+        <item name="android:windowBackground">#111111</item>
+        <item name="colorPrimaryContainer">#2A2A2A</item>
+        <item name="colorOnPrimaryContainer">#F0C040</item>
+        <item name="colorSurfaceVariant">#222222</item>
+        <item name="colorOnSurfaceVariant">#999999</item>
+        <item name="colorOutlineVariant">#2A2A2A</item>
+    </style>
+</resources>

@@ -1,0 +1,3 @@
+-keep class com.notesapp.Note { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
